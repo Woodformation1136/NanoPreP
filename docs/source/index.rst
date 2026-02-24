@@ -17,8 +17,7 @@ Citation
 
 If you use NanoPrePro in your research, please cite:
 
-Chu C, Yu J, Kuo S, Yang F, Lin C, Chen C, Wu Y, Shih C, 
-Sun Y, Mai T, Chen Y, Lin H, Su J, Lin Y (2025). 
-**NanoPrePro: a fully-equipped, fast, and memory-efficient pre-processor for Nanopore transcriptomic sequencing.**
+Chia-Chen Chu, Jhong-He Yu, Shang-Che Kuo, Fan-Wei Yang, Chia-Chang Lin, Chang-Hung Chen, Yi-Chen Wu, 
+Cing Shih, Ying-Hsuan Sun, Te-Lun Mai, Ying-Lan Chen, Hsin-Hung Lin, Jung-Chen Su, Ying-Chung Jimmy Lin, 
+NanoPrePro: a fully equipped, fast, and memory-efficient preprocessor for nanopore transcriptomic sequencing, Briefings in Bioinformatics, Volume 27, Issue 1, January 2026, bbag063, https://doi.org/10.1093/bib/bbag063
 
-(Preprint / Journal reference here when available.)
